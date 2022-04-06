@@ -1,0 +1,15 @@
+recursiva (20) = recursiva(20-5) = 15
+
+recursiva (15) = recursiva(15-5) = 10
+
+recursiva (10) = recursiva(10-5) = 5
+
+recursiva (5) = retorna 1
+
+recursiva (10) = recursiva(1) + 4 = 5
+
+recursiva (15) = recursiva(5) + 4 = 9
+
+recursiva (20) = recursiva(9) + 4 = 13
+
+Resultado = 13
